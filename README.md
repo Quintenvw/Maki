@@ -5,4 +5,4 @@ The most all-in-one bot made to engage members and moderate your server! Featuri
 
 Maki isn't open [source](https://youtu.be/dQw4w9WgXcQ).
 
-[Support server](https://discord.com/api/guilds/549389951024889867/widget.png?style=banner2)](https://maki.gg/support)
+[![Support server](https://discord.com/api/guilds/549389951024889867/widget.png?style=banner2)](https://maki.gg/support)
