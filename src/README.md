@@ -1,1 +1,1 @@
-[![Nothing to see here](https://memegenerator.net/img/instances/43752070/such-empty-much-meaning-wow.jpg)](https://youtu.be/DJfg39WkMvE)
+[![Nothing to see here](https://i.kym-cdn.com/entries/icons/original/000/000/305/Duckroll.jpg)](https://youtu.be/DJfg39WkMvE)
