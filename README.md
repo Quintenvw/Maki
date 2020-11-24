@@ -3,16 +3,4 @@ The most all-in-one bot made to engage members and moderate your server! Featuri
 
 [![Nothing to see here](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
 
-
-
-
-
-
-
-
-
-
-
-
-
 Maki isn't open source.
