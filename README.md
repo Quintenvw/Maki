@@ -6,6 +6,8 @@ The most all-in-one bot made to engage members and moderate your server! Featuri
 * [Commands](https://maki.gg/commands)
 * [Dashboard](https://maki.gg/dashboard)
 
+---
+
 [![Nothing to see here](https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif)](https://youtu.be/dQw4w9WgXcQ)
 
 Maki isn't open [source](https://youtu.be/dQw4w9WgXcQ).
