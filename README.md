@@ -1,5 +1,5 @@
 # Maki
-The most all-in-one bot made to engage members and moderate your server! Featuring server management, leveling, economy, game commands, server statistics, fun commands, and more with an intuitive dashboard!
+The most all-in-one bot made to engage members and moderate your server! Leveling, economy, music, logs and more with an intuitive dashboard!
 
 * [Website](https://maki.gg)
 * [Support Server](https://maki.gg/support)
