@@ -1,8 +1,8 @@
 # Maki
-The most all-in-one bot made to engage members and moderate your server! Leveling, economy, music, logs and more with an intuitive dashboard!
+The only Discord bot you'll ever need! - Levels, economy, moderation, music, logs, and so much more!
 
 * [Website](https://maki.gg)
-* [Support Server](https://maki.gg/support)
+* [Support](https://maki.gg/support)
 * [Commands](https://maki.gg/commands)
 * [Dashboard](https://maki.gg/dashboard)
 
